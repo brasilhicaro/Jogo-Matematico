@@ -32,7 +32,7 @@ public class JogoMatematico{
 			resultado = num1 * num2;
 			break;
 		default:
-			resultado = num1 - num2;
+			resultado = num1 / num2;
 		}
 	}
 	public boolean checarResposta(int total) {
